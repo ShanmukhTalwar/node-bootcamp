@@ -14,4 +14,4 @@ Find the app usefull
 - rename .env.temp to .env
 - setup values for MONGO_URL, JWT_secrets, JWT_LIFETIMe
 - npm start
-- visit URL http://localhost:
+- visit URL http://localhost:3000
