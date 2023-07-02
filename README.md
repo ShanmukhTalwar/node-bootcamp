@@ -62,3 +62,21 @@ npm install normalize.css
 - if any questions about normalize or specific styles
 - Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
 - Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
+
+#### Landing Page
+
+- zoom level 175%
+- markdown preview extension
+- get something on the screen
+- react router and styled components right after
+- create pages directory in the source
+- for now Landing.js
+- create component (snippets extension)
+- setup basic return
+
+```js
+<h4>Landing Page<h4>
+```
+
+- import logo.svg and main.svg
+- import Landing in App.js and render
