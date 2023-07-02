@@ -1,6 +1,7 @@
 import main from '../assets/images/main.svg'
 import Wrapper from '../assets/wrappers/Testing'
 import { Logo } from '../components'
+import {Link} from 'react-router-dom'
 
 const Landing = () => {
     return (
@@ -17,9 +18,9 @@ const Landing = () => {
                         quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
                         narwhal.
                     </p>
-                    <button className="btn btn-hero">
+                    <Link to='/register' className="btn btn-hero">
                         Login/Register
-                    </button>
+                    </Link>
                     <img src={main} alt='job hunt' className="img main-img" />
                 </div>
             </div>
