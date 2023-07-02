@@ -122,3 +122,16 @@ const Component = () => {
 
 - only responsible for styling
 - wrappers folder in assets
+
+#### Logo and Images
+
+- logo built in Figma
+- [Cool Images](https://undraw.co/)
+
+#### Logo
+
+- create <b>components</b> folder in source
+- create Logo.js
+- move import and image logic
+- export as default
+- utilize index.js
