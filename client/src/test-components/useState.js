@@ -6,7 +6,7 @@ export default function UseState() {
     const handleToggle = () => {
       setIsToggled(!isToggled);
     };
-  
+
     return (
       <div>
         <button onClick={handleToggle}>Toggle</button>
